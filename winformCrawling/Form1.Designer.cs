@@ -90,7 +90,7 @@
             this.btnSearch.TabIndex = 1;
             this.btnSearch.Text = "조회";
             this.btnSearch.UseVisualStyleBackColor = true;
-           // this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
             // tboxSearch
             // 
@@ -129,7 +129,7 @@
             this.btnPre.TabIndex = 1;
             this.btnPre.Text = "◀";
             this.btnPre.UseVisualStyleBackColor = true;
-          //  this.btnPre.Click += new System.EventHandler(this.btnPre_Click);
+            this.btnPre.Click += new System.EventHandler(this.btnPre_Click);
             // 
             // btnNext
             // 
@@ -140,7 +140,7 @@
             this.btnNext.TabIndex = 1;
             this.btnNext.Text = "▶";
             this.btnNext.UseVisualStyleBackColor = true;
-          //  this.btnNext.Click += new System.EventHandler(this.btnNext_Click);
+            this.btnNext.Click += new System.EventHandler(this.btnNext_Click);
             // 
             // tboxUrl
             // 
@@ -248,7 +248,7 @@
             this.btnGo.TabIndex = 1;
             this.btnGo.Text = "GO";
             this.btnGo.UseVisualStyleBackColor = true;
-          //  this.btnGo.Click += new System.EventHandler(this.btnGo_Click);
+            this.btnGo.Click += new System.EventHandler(this.btnGo_Click);
             // 
             // Form1
             // 
